@@ -1,0 +1,3 @@
+include ':app'
+include ':Constants'
+project(':Constants').projectDir = new File('e:/asp/w2/Constants')

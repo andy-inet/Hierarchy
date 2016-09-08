@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\asp\\w2\\Hierarchy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\asp\\w2\\Hierarchy\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\asp\\w2\\Hierarchy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\file.png",
+        "source": "E:\\asp\\w2\\Hierarchy\\app\\src\\main\\res\\drawable-xhdpi\\file.png"
+    },
+    {
+        "merged": "E:\\asp\\w2\\Hierarchy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\empty_folder.png",
+        "source": "E:\\asp\\w2\\Hierarchy\\app\\src\\main\\res\\drawable-xhdpi\\empty_folder.png"
+    },
+    {
+        "merged": "E:\\asp\\w2\\Hierarchy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\folder.png",
+        "source": "E:\\asp\\w2\\Hierarchy\\app\\src\\main\\res\\drawable-xhdpi\\folder.png"
+    }
+]

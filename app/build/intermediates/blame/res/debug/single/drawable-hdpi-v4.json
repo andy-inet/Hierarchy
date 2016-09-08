@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\asp\\w2\\Hierarchy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\folder.png",
+        "source": "E:\\asp\\w2\\Hierarchy\\app\\src\\main\\res\\drawable-hdpi\\folder.png"
+    },
+    {
+        "merged": "E:\\asp\\w2\\Hierarchy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\asp\\w2\\Hierarchy\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\asp\\w2\\Hierarchy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file.png",
+        "source": "E:\\asp\\w2\\Hierarchy\\app\\src\\main\\res\\drawable-hdpi\\file.png"
+    },
+    {
+        "merged": "E:\\asp\\w2\\Hierarchy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\empty_folder.png",
+        "source": "E:\\asp\\w2\\Hierarchy\\app\\src\\main\\res\\drawable-hdpi\\empty_folder.png"
+    }
+]
